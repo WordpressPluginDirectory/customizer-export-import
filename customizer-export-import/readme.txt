@@ -2,7 +2,7 @@
 Contributors: justinbusa, pross
 Tags: customizer, customizer export, customizer import, export, import, settings, customizer settings, theme settings, theme options
 Requires at least: 3.6
-Tested up to: 6.4
+Tested up to: 6.6
 Stable tag: trunk
 License: GPL2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -108,3 +108,6 @@ Please visit our blog for more info on the [Customizer Export/Import plugin](htt
 
 = Version 0.9.6 =
 - Restrict uploads to users that can install plugins for better security.
+
+= Version 0.9.7 =
+- Fixed minor security issue
